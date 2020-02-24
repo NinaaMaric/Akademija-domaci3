@@ -6,22 +6,22 @@ import DetailsUser from "./DetailsUser";
 const users= [
     {
         name: "Marija",
-        lastName: "Bujisic",
+        lastName: "Bujišić",
         age: 23
     },
     {
         name: "Nina",
-        lastName: "Maric",
+        lastName: "Marić",
         age: 25
     },
     {
         name: "Vasilije",
-        lastName: "Knezevic",
+        lastName: "Knežević",
         age: 23
     },
     {
         name: "Alen",
-        lastName: "Dedic",
+        lastName: "Dedić",
         age: 23
     }
 ];
